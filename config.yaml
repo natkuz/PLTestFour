@@ -1,0 +1,13 @@
+folder_in: "/home/user/fld_in/"
+folder_out: "/home/user/fld_out/"
+folder_fld: "/home/user/fld/"
+count: 3
+bs: 1M
+type_arch: zip
+host: "0.0.0.0"
+user: "user2"
+passwd: "1597"
+local_path: "/home/user/tests/p7zip-full.deb"
+remote_path: "/home/user2/p7zip-full.deb"
+package_name: "p7zip-full"
+port: 22
